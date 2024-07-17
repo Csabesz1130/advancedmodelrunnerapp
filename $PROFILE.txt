@@ -1,0 +1,1 @@
+$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\Balogh Csaba\advancedmodelrunnerapp\pythonrunnerapp\src\runnerapp-232cc-firebase-adminsdk-2csiq-331f965683.json"
